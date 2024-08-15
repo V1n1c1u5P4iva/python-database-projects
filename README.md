@@ -15,7 +15,7 @@ Este repositório contém dois projetos Python para gerenciamento de dados utili
 
 ### PyMongo
 
-![MongoDB](https://www.mongodb.com/assets/images/global/brand-assets/mongodb-mongodb.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="200" alt="MongoDB Logo">
 
 **PyMongo** é uma biblioteca para trabalhar com MongoDB, um banco de dados NoSQL.
 
